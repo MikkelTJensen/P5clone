@@ -1,0 +1,37 @@
+## Dataset on when european countries started and ended specific countermeasures:
+https://www.ecdc.europa.eu/en/publications-data/download-data-response-measures-covid-19
+
+
+
+## Dataset on european countries' rate of newly reported COVID-19 cases per 100k population, daily and weekly and by national, subnational region:
+https://www.ecdc.europa.eu/en/publications-data/subnational-14-day-notification-rate-covid-19
+
+https://www.ecdc.europa.eu/en/publications-data/weekly-subnational-14-day-notification-rate-covid-19
+
+https://www.ecdc.europa.eu/en/publications-data/data-national-14-day-notification-rate-covid-19
+
+
+
+## Dataset on countries worldwide:
+https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide
+
+
+
+## Economic Effects of Coronavirus Outbreak (COVID-19) on the World Economy (impact on GDP growth):
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3557504
+
+https://www.worldbank.org/en/news/feature/2020/06/08/the-global-economic-outlook-during-the-covid-19-pandemic-a-changed-world
+
+
+
+## Impact on stock market, but it seems the news, not covid-19 is the cause:
+https://towardsdatascience.com/the-coronavirus-effect-on-the-stock-market-b7a4739406e8
+
+
+
+## European statistics that could be related to covid-19:
+https://ec.europa.eu/eurostat/web/covid-19/data
+
+## Overview of all databases:
+## This one seems better, maybe we should focus on international trade? industry production?
+https://ec.europa.eu/eurostat/data/database
