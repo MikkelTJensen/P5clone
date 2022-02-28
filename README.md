@@ -1,4 +1,6 @@
-# P5-Code
+# 5th Semester Project Code Clone
+
+## P5-Code
 
 This is the code for the P5 project that worked with the topic of Predicting Effects of COVID-19 PreventiveMeasures Using Regression Models by the group 504e20.
 Most of the code is written in python and some in R.
