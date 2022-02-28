@@ -5,10 +5,8 @@ import psycopg2
 # Remember to disconnect after you got what you want.
 class DatabaseConnection:
     def __init__(self, database):
-        self.user = "d504"
-        self.password = "ganggang"
-        self.host = "104.248.249.225"
-        self.port = "5432"
+
+        # DATABASE CONNECTION VARIABLES USED TO BE HERE BUT HAVE BEEN REMOVED
 
         try:
             self.connection = psycopg2.connect(user=self.user,

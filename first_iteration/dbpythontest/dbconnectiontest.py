@@ -3,11 +3,8 @@ from psycopg2 import Error
 import pandas as pd
 import pandas.io.sql as psql
 try:
-    connection = psycopg2.connect(user = "d504",
-                                  password = "ganggang",
-                                  host = "127.0.0.1",
-                                  port = "5432",
-                                  database = "countriesmeasuresdates")
+    
+    # DATABASE CONNECTION VARIABLES USED TO BE HERE BUT HAVE BEEN REMOVED
 
     cursor = connection.cursor()
     
